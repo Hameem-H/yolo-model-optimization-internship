@@ -1,0 +1,5 @@
+Framework,Batch,Image_Size,FPS,Latency_ms,Throughput_img_sec,VRAM_MB,GPU_Utilization_%
+PyTorch FP32,8,640,90.27,11.08,90.27,918.75,56.67
+PyTorch FP16,8,640,119.87,8.34,119.87,377.75,39.33
+ONNX Runtime,8,640,80.69,12.39,80.69,252.34,64.0
+TensorRT FP16,8,640,138.16,7.24,138.16,430.78,37.67

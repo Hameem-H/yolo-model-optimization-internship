@@ -1,0 +1,4 @@
+Framework,mAP50,mAP50-95,Precision,Recall,Value_Status
+PyTorch FP32,0.6729,0.4556,0.6787,0.6276,Measured
+ONNX Runtime,0.6727,0.4554,0.6769,0.629,Reconstructed estimate
+TensorRT FP16,0.6726,0.4551,0.6763,0.6285,Reconstructed estimate
